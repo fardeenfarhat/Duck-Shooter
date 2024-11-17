@@ -69,7 +69,7 @@ To play the game, you’ll need the following:
 
   - **SCORES.TXT**
         Stores player names and their scores in the format:
-        ```text
+        ```
         Name:Score
         ```
     
