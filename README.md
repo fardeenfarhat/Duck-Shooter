@@ -95,4 +95,4 @@ I’d love to hear what you think! Feel free to open an issue for bug reports or
 Enjoy the game, and happy shooting! Don't forget to check out the high score leaderboard to see if you can top it!
 
 ---
-**Duck Shooter** is managed by Fardeen. This project is licensed under the MIT License.
+**Duck Shooter** is managed by Fardeen Farhat. This project is licensed under the MIT License.
